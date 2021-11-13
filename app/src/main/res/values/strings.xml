@@ -1,0 +1,26 @@
+<resources>
+
+    <string name="app_name">iMed</string>
+    <string name="login">Log in</string>
+    <string name="paciente">sou paciente</string>
+    <string name="médico">Sou Médico</string>
+    <string name="senha">Senha</string>
+    <string name="email">E-mail</string>
+    <string name="cadastre_se">Ainda não tem conta? Cadastre-se:</string>
+    <string name="cpf">Logar com CPF</string>
+    <string name="esqueci">Esqueci minha senha</string>
+    <string name="boasVindas">Seja bem vindo(a)!</string>
+    <string name="instrucoes">Entre na sua conta para agendar sua consulta</string>
+    <string name="helpPaciente">Se sou paciente</string>
+    <string name="helpMedico">Se sou médico</string>
+
+    <string name="nome">Nome</string>
+    <string name="prosseguir">Finalizar cadastro</string>
+    <string name="telefone">Telefone</string>
+    <string name="cpfRegistro">CPF</string>
+    <string name="senhaRegistro">Senha</string>
+    <string name="emailRegistro">E-mail</string>
+    <string name="convenio">Convênio</string>
+    <string name="textinho">Preencha os campos abaixo para cadastro como paciente</string>
+    <string name="cadastro">Cadastre-se!</string>
+</resources>

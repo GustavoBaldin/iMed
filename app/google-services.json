@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1050636927048",
+    "firebase_url": "https://imed-cb45d-default-rtdb.firebaseio.com",
+    "project_id": "imed-cb45d",
+    "storage_bucket": "imed-cb45d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1050636927048:android:45202a4c1aaaa78fa6187d",
+        "android_client_info": {
+          "package_name": "br.edu.infnet.iMed"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1050636927048-dsuhamptbda2140h4755cdkmkosoolk8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDaT-a8ctckMlJZ38s_pJ9krY0fXArDP-g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1050636927048-dsuhamptbda2140h4755cdkmkosoolk8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
